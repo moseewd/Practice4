@@ -1,0 +1,7 @@
+C:\Users\Данила\source\repos\Задача 4 практика\Задача 4 практика\bin\Debug\Задача 4 практика.exe.config
+C:\Users\Данила\source\repos\Задача 4 практика\Задача 4 практика\bin\Debug\Задача 4 практика.exe
+C:\Users\Данила\source\repos\Задача 4 практика\Задача 4 практика\bin\Debug\Задача 4 практика.pdb
+C:\Users\Данила\source\repos\Задача 4 практика\Задача 4 практика\obj\Debug\Задача 4 практика.csprojResolveAssemblyReference.cache
+C:\Users\Данила\source\repos\Задача 4 практика\Задача 4 практика\obj\Debug\Задача 4 практика.csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\Задача 4 практика\Задача 4 практика\obj\Debug\Задача 4 практика.exe
+C:\Users\Данила\source\repos\Задача 4 практика\Задача 4 практика\obj\Debug\Задача 4 практика.pdb
